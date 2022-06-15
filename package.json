@@ -1,0 +1,19 @@
+{
+  "name": "nod-consultas-sqlite",
+  "version": "1.0.0",
+  "description": "Ejecutar consultas por medio de funciones javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeljsus/nod-consultas-sqlite.git"
+  },
+  "author": "Ángel Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeljsus/nod-consultas-sqlite/issues"
+  },
+  "homepage": "https://github.com/angeljsus/nod-consultas-sqlite#readme"
+}
