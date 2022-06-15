@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/angeljsus/nod-consultas-sqlite/issues"
   },
-  "homepage": "https://github.com/angeljsus/nod-consultas-sqlite#readme"
+  "homepage": "https://github.com/angeljsus/nod-consultas-sqlite#readme",
+  "publishConfig": {
+   "angeljsus:registry": "https://npm.pkg.github.com"
+ }
 }
